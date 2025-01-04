@@ -123,3 +123,27 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Support
 
 If you encounter any issues or have questions, please file an issue in the GitHub repository.
+
+## Future Enhancements
+
+These are planned features and improvements that would enhance the functionality of the notebook converter:
+
+### LLM Integration
+- Integration with local LLMs (avoiding API calls) for code analysis
+- Automatic generation of cell-by-cell documentation
+- Smart code commenting based on cell content
+- Contextual understanding of notebook flow
+
+### User Customization
+- Custom prompt support for specialized conversions
+- LaTeX equation processing and formatting
+- User-defined templates for output formatting
+- Batch processing capabilities for multiple notebooks
+
+### Other Potential Features
+- Support for additional output formats (e.g., HTML, RST)
+- Interactive editing of converted content before download
+- Cell dependency visualization
+- Metadata preservation options
+
+We welcome contributions to implement any of these features! Feel free to pick up any of these enhancements or suggest new ones via issues.
