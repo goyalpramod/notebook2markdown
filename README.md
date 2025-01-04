@@ -1,5 +1,7 @@
 # Jupyter Notebook Converter
 
+![](https://github.com/goyalpramod/notebook2markdown/blob/main/assets/sample.gif)
+
 A simple web application built with Gradio that converts Jupyter notebooks (.ipynb) to either Markdown files or Python scripts. This tool makes it easy to convert your notebooks for documentation or code sharing purposes.
 
 ## Features
